@@ -1,7 +1,7 @@
 # Png-or-Txt-
 Greetings, TryHackMe community!
 
-We are excited to share with you a unique challenge that will put your steganography skills to the test. In this challenge, you will be working with an image file named HackMe.png. Upon first glance, the image may appear to be a regular PNG file, but there's more than meets the eye.
+I am excited to share with you a unique challenge that will put your steganography skills to the test. In this challenge, you will be working with an image file named HackMe.png. Upon first glance, the image may appear to be a regular PNG file, but there's more than meets the eye.
 
 Hidden within the HackMe.png file is a secret message that can be revealed by opening the image as a text file using a simple text editor like Notepad. To uncover the hidden text, follow these steps:
 
