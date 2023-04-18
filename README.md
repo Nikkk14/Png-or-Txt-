@@ -16,5 +16,7 @@ Step 4) We won't spoil the surprise by revealing the contents of the hidden text
 We hope this challenge piques your curiosity and encourages you to explore the world of steganography further. Good luck, and happy hacking!
 
 Best regards,
+
 Nikhil
+
 TryHackMe Challenge Creator
